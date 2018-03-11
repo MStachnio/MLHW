@@ -17,10 +17,10 @@ print(DescrStats)
 # Normalizing the data not necessary
 
 # Perceptron Algorithm
-w0=0.2
-w1=0.2
-w2=0.2
-w3=0.2
+w0=0.5
+w1=0.5
+w2=0.5
+w3=0
 eta=0.1
 lastError=0
 outerloop=2
